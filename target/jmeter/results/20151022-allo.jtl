@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1386" lt="174" ts="1445509508812" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-1" dt="text" by="1604765"/>
+<httpSample t="56" lt="42" ts="1445509510213" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-1" dt="text" by="46640"/>
+<httpSample t="84" lt="40" ts="1445509510272" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-1" dt="text" by="59632"/>
+<httpSample t="3857" lt="89" ts="1445509514513" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-2" dt="text" by="1604765"/>
+<httpSample t="246" lt="39" ts="1445509518373" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-2" dt="text" by="46640"/>
+<httpSample t="366" lt="39" ts="1445509518622" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-2" dt="text" by="59632"/>
+<httpSample t="4868" lt="77" ts="1445509520512" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-3" dt="text" by="1604765"/>
+<httpSample t="226" lt="37" ts="1445509525385" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-3" dt="text" by="46640"/>
+<httpSample t="224" lt="39" ts="1445509525614" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-3" dt="text" by="59632"/>
+<httpSample t="3601" lt="72" ts="1445509526510" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-4" dt="text" by="1604765"/>
+<httpSample t="149" lt="38" ts="1445509530113" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-4" dt="text" by="46640"/>
+<httpSample t="183" lt="38" ts="1445509530265" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-4" dt="text" by="59632"/>
+<httpSample t="3963" lt="75" ts="1445509532512" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-5" dt="text" by="1604765"/>
+<httpSample t="452" lt="38" ts="1445509536478" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-5" dt="text" by="46640"/>
+<httpSample t="614" lt="38" ts="1445509536933" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-5" dt="text" by="59632"/>
+<httpSample t="7865" lt="77" ts="1445509538511" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-6" dt="text" by="1604765"/>
+<httpSample t="219" lt="38" ts="1445509546380" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-6" dt="text" by="46640"/>
+<httpSample t="248" lt="37" ts="1445509546602" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-6" dt="text" by="59632"/>
+<httpSample t="10772" lt="83" ts="1445509544509" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-7" dt="text" by="1604765"/>
+<httpSample t="459" lt="72" ts="1445509555284" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-7" dt="text" by="46640"/>
+<httpSample t="1750" lt="46" ts="1445509555746" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-7" dt="text" by="59632"/>
+<httpSample t="7378" lt="73" ts="1445509550506" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-8" dt="text" by="1604765"/>
+<httpSample t="111" lt="38" ts="1445509557886" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-8" dt="text" by="46640"/>
+<httpSample t="675" lt="39" ts="1445509557999" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-8" dt="text" by="59632"/>
+<httpSample t="7907" lt="73" ts="1445509556509" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-9" dt="text" by="1604765"/>
+<httpSample t="76" lt="38" ts="1445509564418" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-9" dt="text" by="46640"/>
+<httpSample t="78" lt="38" ts="1445509564497" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-9" dt="text" by="59632"/>
+<httpSample t="7894" lt="74" ts="1445509562507" s="true" lb="Get home page" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-10" dt="text" by="1604765"/>
+<httpSample t="145" lt="37" ts="1445509570404" s="true" lb="Get apple products" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-10" dt="text" by="46640"/>
+<httpSample t="368" lt="38" ts="1445509570551" s="true" lb="HTTP Request" rc="200" rm="OK" tn="jp@gc - Stepping Thread Group 1-10" dt="text" by="59632"/>
+
+</testResults>
