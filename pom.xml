@@ -33,11 +33,6 @@
                     </executions>
                     <dependencies>
                         <dependency>
-                            <groupId>org.codehaus.mojo</groupId>
-                            <artifactId>chronos-report-maven-plugin</artifactId>
-                            <version>1.1.0</version>
-                        </dependency>
-                        <dependency>
                             <groupId>kg.apc</groupId>
                             <artifactId>jmeter-plugins</artifactId>
                             <version>1.0.0</version>
